@@ -5,7 +5,7 @@ Dupa 10 date gresite introduse de la tastatura, programul se opreste.
 """
 
 from module.operatii import listare, adaugare, stergere
-from module1git.validari import inregistreaza_eroare
+from module.validari import inregistreaza_eroare
 
 
 def meniu():
